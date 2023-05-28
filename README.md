@@ -28,12 +28,12 @@
 
 ### 在线配置
 1. 安装apk (测试阶段只提供armeabi-v7a和x86_64)
-2. [使用在线配置文件]:https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
+2. 使用在线配置文件:https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
 
 ### 离线配置
 1. 安装apk
 2. 将plugin放到设备根目录
-3. [使用离线配置文件]:https://raw.githubusercontent.com/UndCover/PyramidStore/main/local.json
+3. 使用离线配置文件:https://raw.githubusercontent.com/UndCover/PyramidStore/main/local.json
 
 ### [其他版本可参考添加教程]:https://github.com/UndCover/PyramidStore/blob/main/tutorial.md
 
